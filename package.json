@@ -1,0 +1,21 @@
+{
+  "name": "lunar-eclipse",
+  "displayName": "Lunar Eclipse",
+  "description": "A Flightdeck theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunar Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunar Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
