@@ -185,7 +185,7 @@
 		"breadcrumb.focusForeground": "#a9b1d6",
 		"breadcrumb.activeSelectionForeground": "#a9b1d6",
 		"tab.activeBackground": "#16161e",
-		"tab.inactiveBackground": "#16161e",
+		"tab.inactiveBackground": "#1a1b26",
 		"tab.activeForeground": "#c0caf5",
 		"tab.hoverForeground": "#a9b1d6",
 		"tab.activeBorder": "#8A78FE",
