@@ -1,7 +1,7 @@
 {
   "name": "lunar-eclipse",
   "displayName": "Lunar Eclipse",
-  "description": "A dark theme with muted grays, pops of purple, and warm tones of pink for Visual Studio Code",
+  "description": "A vibrant theme a light & dark variants.",
   "version": "0.0.1",
   "publisher": "ginfuru",
   "engines": {
