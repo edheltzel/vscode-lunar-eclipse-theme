@@ -18,7 +18,7 @@
     "light",
     "purple",
     "pink",
-    "gray"
+    "high contrast"
   ],
   "galleryBanner": {
     "color": "#1a1b26",
@@ -39,6 +39,11 @@
         "label": "Lunar Eclipse",
         "uiTheme": "vs-dark",
         "path": "./themes/lunar-eclipse-theme.json"
+      },
+      {
+        "label": "Total Lunar Eclipse",
+        "uiTheme": "vs",
+        "path": "./themes/total-lunar-eclipse-theme.json"
       },
       {
         "label": "Lunar Eclipse Light",
