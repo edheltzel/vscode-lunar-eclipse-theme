@@ -65,7 +65,7 @@
         "editor.selectionForeground": "#8A78FE",
         "editor.selectionHighlightBackground": "#00000000",
         "editor.selectionHighlightBorder": "#8A78FE60",
-        "editorStickyScroll.background": "#000000",
+        "editorStickyScroll.background": "#130b28",
         "editor.wordHighlightBackground": "#8A78FE20",
         "editor.wordHighlightStrongBackground": "#8A78FE40",
         "editorBracketHighlight.foreground1": "#3FC56B",
