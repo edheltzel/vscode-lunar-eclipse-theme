@@ -526,17 +526,6 @@
         "tomlArrayKey": "#B245DE"
     },
     "semanticClass": "lunar-eclipse-light",
-    "tokenColorCustomizations": {
-        "property.readonly": {
-            "foreground": "#35166D"
-        },
-        "variable.declaration": {
-            "foreground": "#5A4A78"
-        },
-        "variable.local": {
-            "foreground": "#343B58"
-        }
-    },
     "tokenColors": [
         {
             "name": "Keywords",
@@ -576,7 +565,8 @@
                 "variable.language.this.ts",
                 "constant.language.null.ts",
                 "constant.language.undefined.ts",
-                "keyword.operator.ternary.ts"
+                "keyword.operator.ternary.ts",
+                "keyword.operator.expression.of.ts"
             ],
             "settings": {
                 "foreground": "#D04094"
@@ -735,6 +725,7 @@
                 "constant.language.powershell",
                 "constant.language.shell",
                 "constant.language.powershell punctuation.definition.variable.powershell",
+                "constant.language.shell",
                 "constant.language.shell punctuation.definition.variable.shell",
                 "constant.language.boolean.true.js",
                 "constant.language.boolean.false.js",
@@ -858,6 +849,9 @@
                 "punctuation.definition.string.begin.powershell",
                 "punctuation.definition.string.begin.shell",
                 "punctuation.definition.string.end.powershell",
+                "string.quoted.double.shell",
+                "string.quoted.single.shell",
+                "punctuation.definition.string.begin.shell",
                 "punctuation.definition.string.end.shell",
                 "string.quoted.single.js",
                 "string.quoted.double.js",
@@ -1126,26 +1120,31 @@
             }
         },
         {
-            "name": "Shell Script & Powershell Variables",
+            "name": "Shell Script / Powershell Variables",
             "scope": [
                 "variable.other.readwrite.powershell",
                 "variable.other.readwrite.shell",
                 "punctuation.definition.variable.powershell",
-                "punctuation.definition.variable.shell",
                 "storage.modifier.scope.powershell",
-                "storage.modifier.scope.shell"
+                "variable.other.readwrite.shell",
+                "punctuation.definition.variable.shell",
+                "storage.modifier.scope.shell",
+                "variable.other.assignment.shell",
+                "punctuation.definition.variable.shell"
             ],
             "settings": {
                 "foreground": "#0B8C36"
             }
         },
         {
-            "name": "Shell Script & Powershell Variable/Storage Scopes",
+            "name": "Shell Script / Powershell Variable/Storage Scopes",
             "scope": [
                 "storage.modifier.scope.powershell",
                 "storage.modifier.scope.shell",
                 "support.variable.drive.powershell",
-                "support.variable.drive.shell"
+                "storage.modifier.scope.shell",
+                "support.variable.drive.shell",
+                "punctuation.definition.variable.shell"
             ],
             "settings": {
                 "foreground": "#0B8C36",
@@ -1153,23 +1152,24 @@
             }
         },
         {
-            "name": "Shell Script & Powershell $_ Variable",
+            "name": "Shell Script / Powershell $_ Variable",
             "scope": [
                 "support.variable.automatic.powershell",
                 "support.variable.automatic.shell",
                 "support.variable.automatic.powershell punctuation.definition.variable.powershell",
-                "support.variable.automatic.shell punctuation.definition.variable.shell"
+                "support.variable.automatic.shell punctuation.definition.variable.shell",
+                "variable.other.normal.shell"
             ],
             "settings": {
                 "foreground": "#B245DE"
             }
         },
         {
-            "name": "Shell Script & Powershell Operators",
+            "name": "Shell Script / Powershell Operators",
             "scope": [
                 "keyword.operator.comparison.powershell",
-                "keyword.operator.comparison.shell",
-                "keyword.operator.logical.powershell",
+                "keyword.operator.comparison.powershell",
+                "keyword.operator.logical.shell",
                 "keyword.operator.logical.shell"
             ],
             "settings": {
@@ -1177,17 +1177,14 @@
             }
         },
         {
-            "name": "Shell Script & Powershell Comment Keywords",
-            "scope": [
-                "keyword.operator.documentation.powershell",
-                "keyword.operator.documentation.powershell"
-            ],
+            "name": "Shell Script / Powershell Comment Keywords",
+            "scope": "keyword.operator.documentation.powershell, keyword.operator.documentation.shell, punctuation.definition.variable.shell",
             "settings": {
                 "foreground": "#565869"
             }
         },
         {
-            "name": "Shell Script & Powershell String Interpolation",
+            "name": "Shell Script / Powershell String Interpolation",
             "scope": [
                 "punctuation.section.embedded.substatement.begin.powershell",
                 "punctuation.section.embedded.substatement.end.powershell",
@@ -1275,7 +1272,8 @@
         {
             "name": "HTML - Attributes",
             "scope": [
-                "entity.other.attribute-name.html"
+                "entity.other.attribute-name.html",
+                "entity.other.attribute-name.css"
             ],
             "settings": {
                 "foreground": "#008785",
@@ -1304,9 +1302,10 @@
             }
         },
         {
-            "name": "HTML - Meta Value",
+            "name": "HTML - Attribute Values",
             "scope": [
-                "meta.attribute"
+                "meta.attribute",
+                "meta.attribute-selector.css string.quoted.double.css"
             ],
             "settings": {
                 "foreground": "#9B7200"

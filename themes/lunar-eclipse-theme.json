@@ -565,7 +565,8 @@
                 "variable.language.this.ts",
                 "constant.language.null.ts",
                 "constant.language.undefined.ts",
-                "keyword.operator.ternary.ts"
+                "keyword.operator.ternary.ts",
+                "keyword.operator.expression.of.ts"
             ],
             "settings": {
                 "foreground": "#F85EB4"
@@ -1265,7 +1266,8 @@
         {
             "name": "HTML - Attributes",
             "scope": [
-                "entity.other.attribute-name.html"
+                "entity.other.attribute-name.html",
+                "entity.other.attribute-name.css"
             ],
             "settings": {
                 "foreground": "#15C9C5",
@@ -1294,9 +1296,10 @@
             }
         },
         {
-            "name": "HTML - Meta Value",
+            "name": "HTML - Attribute Values",
             "scope": [
-                "meta.attribute"
+                "meta.attribute",
+                "meta.attribute-selector.css string.quoted.double.css"
             ],
             "settings": {
                 "foreground": "#F9C859"
