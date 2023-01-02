@@ -1,7 +1,7 @@
 {
   "name": "lunar-eclipse",
   "displayName": "Lunar Eclipse",
-  "description": "A vibrant theme a light & dark variants.",
+  "description": "A vibrant theme with light & dark variants.",
   "version": "0.0.1",
   "publisher": "ginfuru",
   "engines": {
@@ -21,7 +21,7 @@
     "high contrast"
   ],
   "galleryBanner": {
-    "color": "#1a1b26",
+    "color": "#08060E",
     "theme": "dark"
   },
   "icon": "images/icon__lunar-eclipse.png",
