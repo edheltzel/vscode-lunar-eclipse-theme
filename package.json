@@ -41,8 +41,8 @@
         "path": "./themes/lunar-eclipse-theme.json"
       },
       {
-        "label": "Total Lunar Eclipse",
-        "uiTheme": "vs",
+        "label": "Lunar Eclipse Dark",
+        "uiTheme": "vs-dark",
         "path": "./themes/total-lunar-eclipse-theme.json"
       },
       {
