@@ -173,7 +173,7 @@
         "gitlens.graphLane5Color": "#FF7135",
         "gitlens.graphLane6Color": "#E66DFF",
         "gitlens.graphLane7Color": "#B58E95",
-        "gitlens.graphLane8Color": "#6FCDC1",
+        "gitlens.graphLane8Color": "#14d7be",
         "gitlens.graphLane9Color": "#0f9794",
         "gitlens.gutterForegroundColor": "#737AA2",
         "gitlens.gutterUncommittedForegroundColor": "#737AA2",
@@ -356,12 +356,12 @@
         "newOperator": "#F85EB4",
         "plainKeyword:csharp": "#F85EB4",
         "controlKeyword:csharp": "#F85EB4",
-        "punctuation": "#828DA0",
-        "operator": "#828DA0",
-        "arithmetic": "#828DA0",
-        "comparison": "#828DA0",
-        "logical": "#828DA0",
-        "bitwise": "#828DA0",
+        "punctuation": "#97a2b5",
+        "operator": "#97a2b5",
+        "arithmetic": "#97a2b5",
+        "comparison": "#97a2b5",
+        "logical": "#97a2b5",
+        "bitwise": "#97a2b5",
         "function": "#10B1FE",
         "member.static:csharp": {
             "foreground": "#10B1FE",
@@ -374,7 +374,7 @@
         "method": "#10B1FE",
         "member:csharp": "#10B1FE",
         "macro": "#10B1FE",
-        "namespace": "#A4ACD0",
+        "namespace": "#c1c9eb",
         "struct": "#42DD76",
         "class": "#42DD76",
         "class.static:csharp": {
@@ -388,9 +388,9 @@
         "boolean": "#15C9C5",
         "interface": "#E66DFF",
         "typeParameter": "#42DD76",
-        "variable": "#A4ACD0",
-        "local:csharp": "#A4ACD0",
-        "parameter": "#6FCDC1",
+        "variable": "#c1c9eb",
+        "local:csharp": "#c1c9eb",
+        "parameter": "#14d7be",
         "property": "#B58E95",
         "field:csharp": "#B58E95",
         "field.static:csharp": {
@@ -426,7 +426,7 @@
         "unresolvedReference": {
             "foreground": "#FF2884"
         },
-        "xmlDocCommentText": "#A4ACD0",
+        "xmlDocCommentText": "#c1c9eb",
         "xmlDocCommentName:csharp": "#444B6A",
         "xmlDocCommentDelimiter:csharp": "#444B6A",
         "xmlDocCommentAttributeName:csharp": "#FF7135",
@@ -618,7 +618,7 @@
                 "punctuation.definition.string.end.json"
             ],
             "settings": {
-                "foreground": "#828DA0",
+                "foreground": "#97a2b5",
                 "fontStyle": ""
             }
         },
@@ -782,7 +782,7 @@
                 "variable.scss"
             ],
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -797,7 +797,7 @@
                 "variable.parameter.ts"
             ],
             "settings": {
-                "foreground": "#6FCDC1"
+                "foreground": "#14d7be"
             }
         },
         {
@@ -1107,7 +1107,7 @@
                 "comment.block.documentation.cs"
             ],
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -1179,7 +1179,7 @@
             "name": "Shell Script / Powershell Comment Keywords",
             "scope": "keyword.operator.documentation.powershell, keyword.operator.documentation.shell, punctuation.definition.variable.shell",
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -1211,7 +1211,7 @@
                 "punctuation.definition.group.no-capture.regexp"
             ],
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -1498,7 +1498,7 @@
                 "punctuation.definition.list_item.markdown"
             ],
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -1508,7 +1508,7 @@
                 "markup.inline.raw.string.markdown"
             ],
             "settings": {
-                "foreground": "#A4ACD0",
+                "foreground": "#c1c9eb",
                 "fontStyle": "bold"
             }
         },
@@ -1518,7 +1518,7 @@
                 "markup.fenced_code.block.markdown"
             ],
             "settings": {
-                "foreground": "#A4ACD0"
+                "foreground": "#c1c9eb"
             }
         },
         {
@@ -1528,7 +1528,7 @@
                 "markup.fenced_code.block.markdown punctuation.definition.markdown"
             ],
             "settings": {
-                "foreground": "#A4ACD0",
+                "foreground": "#c1c9eb",
                 "fontStyle": "bold"
             }
         },
@@ -1610,7 +1610,7 @@
                 "meta.separator.markdown"
             ],
             "settings": {
-                "foreground": "#A4ACD0",
+                "foreground": "#c1c9eb",
                 "fontStyle": "bold"
             }
         },
@@ -1808,7 +1808,7 @@
                 "entity.name.tag.njk"
             ],
             "settings": {
-                "foreground": "#828DA0"
+                "foreground": "#97a2b5"
             }
         },
         {
@@ -1817,7 +1817,7 @@
                 "support.variable.njk"
             ],
             "settings": {
-                "foreground": "#828DA0"
+                "foreground": "#97a2b5"
             }
         },
         {
