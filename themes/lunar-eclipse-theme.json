@@ -182,7 +182,7 @@
         "input.background": "#00000000",
         "input.border": "#8A78FE70",
         "input.foreground": "#EEEEEE",
-        "input.placeholderForeground": "#EEEEEE60",
+        "input.placeholderForeground": "#6160A4A5",
         "inputOption.activeBorder": "#8A78FE",
         "inputValidation.errorBackground": "#130b28",
         "inputValidation.errorBorder": "#D62C2CA0",
@@ -193,7 +193,7 @@
         "inputValidation.warningBackground": "#130b28",
         "inputValidation.warningBorder": "#FFB638A0",
         "inputValidation.warningForeground": "#CBCBCB",
-        "list.activeSelectionBackground": "#6160A430",
+        "list.activeSelectionBackground": "#8A78FE30",
         "list.activeSelectionForeground": "#EEEEEE",
         "list.dropBackground": "#8A78FE15",
         "list.errorForeground": "#D62C2C",
@@ -1361,7 +1361,7 @@
             }
         },
         {
-            "name": "CSS - Fontname Selector",
+            "name": "CSS - Font Name Selector",
             "scope": [
                 "support.constant.font-name.css"
             ],
@@ -1370,7 +1370,7 @@
             }
         },
         {
-            "name": "CSS - Pseudoclass Selector",
+            "name": "CSS - Pseudo class Selector",
             "scope": [
                 "entity.other.attribute-name.pseudo-class.css",
                 "entity.other.attribute-name.pseudo-element.css"
