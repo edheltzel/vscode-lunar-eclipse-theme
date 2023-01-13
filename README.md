@@ -5,17 +5,22 @@
 
 </div>
 
-![JS Syntax ](https://raw.githubusercontent.com/edheltzel/vscode-onedark-raincoat/master/images/js.png)
+A color scheme with thee variants – two dark and one light with purple, yellow, and pink tones for high visibility.
 
-![JS Syntax Poncho](https://raw.githubusercontent.com/edheltzel/vscode-onedark-raincoat/master/images/js-alt.png)
+TODO: add images of syntax highlighting
+![Lunar Eclipse JS syntax](https://raw.githubusercontent.com/edheltzel/vscode-onedark-raincoat/master/images/js.png)
 
-##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-onedark-raincoat-theme/changelog)
+![Lunar Eclipse Dark JS syntax](https://raw.githubusercontent.com/edheltzel/vscode-onedark-raincoat/master/images/js-alt.png)
+
+![Lunar Eclipse Light JS syntax](https://raw.githubusercontent.com/edheltzel/vscode-onedark-raincoat/master/images/js-alt.png)
+
+##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-lunar-eclipse-theme/changelog)
 
 ### Additional Customization and other Tweaks
 **See something that you'd rather change?**<br>
 No problem, feel free to edit and customize by using the `workbench.colorCustomizations` setting. Check out the [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) for additional options.
 
-Open up your `setttings.json` and hack way.
+Open up your `settings.json` and hack way.
 
 ```json
 "workbench.colorCustomizations":{
