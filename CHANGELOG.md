@@ -4,6 +4,10 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.4]
+
+- adds more color contrast to Lunar Eclipse Dark
+-- title and prompt selection colors for active items is more visible.
 ## [v0.0.3]
 
 - adds more color contrast for all variants
