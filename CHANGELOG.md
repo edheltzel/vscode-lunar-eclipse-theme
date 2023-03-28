@@ -4,6 +4,9 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.5]
+
+- fixes ruler color on Lunar Eclipse Dark
 ## [v0.0.4]
 
 - adds more color contrast to Lunar Eclipse Dark
