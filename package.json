@@ -46,6 +46,11 @@
         "path": "./themes/total-lunar-eclipse-theme.json"
       },
       {
+        "label": "Lunar Eclipse Golden Hour",
+        "uiTheme": "vs-dark",
+        "path": "./themes/total-lunar-golden-hour.json"
+      },
+      {
         "label": "Lunar Eclipse Light",
         "uiTheme": "vs",
         "path": "./themes/lunar-eclipse-light-theme.json"
