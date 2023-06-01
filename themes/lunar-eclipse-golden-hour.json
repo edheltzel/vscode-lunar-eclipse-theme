@@ -21,7 +21,7 @@
         "editor.selectionBackground": "#85598E35",
         "editor.inactiveSelectionBackground": "#85598E2A",
         "editor.selectionHighlightBackground": "#00000000",
-        "editor.wordHighlightBackground": "#85598E1A",
+        "editor.wordHighlightBackground": "#85598E3A",
         "editor.selectionHighlightBorder": "#85598E60",
         "editor.wordHighlightStrongBackground": "#85598E1A",
         "editor.findMatchBackground": "#00000000",
@@ -217,9 +217,10 @@
         "list.inactiveSelectionBackground": "#F4EBC210",
         "list.highlightForeground": "#85598E",
         "list.focusHighlightForeground": "#AFA188",
-        "list.focusBackground": "#732F81",
+        "list.focusBackground": "#F4EBC260",
         "list.focusForeground": "#AFA188",
-        "list.inactiveFocusBackground": "#732F81",
+        "list.inactiveFocusBackground": "#F4EBC260",
+        "list.inactiveFocusOutline": "#4E4844",
         "list.dropBackground": "#85598E1A",
         "list.errorForeground": "#85598E",
         "list.warningForeground": "#ED7717",
@@ -373,8 +374,8 @@
         "quickInput.foreground": "#AFA188",
         "quickInput.background": "#191C1D",
         "quickInputTitle.background": "#191C1D",
-        "quickInputList.focusBackground": "#1F2120",
-        "quickInputList.focusForeground": "#AFA188",
+        "quickInputList.focusBackground": "#F4EBC220",
+        "quickInputList.focusForeground": "#F4EBC2",
         "quickInputList.focusIconForeground": "#AFA188",
         "pickerGroup.border": "#4E4844",
         "pickerGroup.foreground": "#85598E",
@@ -1705,7 +1706,7 @@
                 "markup.inline.raw.string.markdown"
             ],
             "settings": {
-                "foreground": "#CCBB97",
+                "foreground": "#CCBB97"
             }
         },
         {
