@@ -255,7 +255,7 @@
         "badge.foreground": "#85598E",
         "badge.background": "#191C1D",
         "activityBarBadge.foreground": "#85598E",
-        "activityBarBadge.background": "#191C1D",
+        "activityBarBadge.background": "#151818",
         "editorGroup.border": "#4E4844",
         "editorGroup.focusedEmptyBorder": "#4E4844",
         "editorGroup.dropBackground": "#85598E1A",
