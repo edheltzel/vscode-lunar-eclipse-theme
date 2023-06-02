@@ -106,7 +106,7 @@
         "editorGutter.addedBackground": "#8ABA3C",
         "editorGutter.modifiedBackground": "#00B6C2",
         "editorGutter.deletedBackground": "#85598E",
-        "editorGutter.commentRangeForeground": "#8F8071",
+        "editorGutter.commentRangeForeground": "#413F3A",
         "minimap.background": "#191C1D",
         "minimap.selectionHighlight": "#732F81",
         "minimap.findMatchHighlight": "#BEC723",
@@ -652,15 +652,15 @@
         "character": "#ED7717",
         "number": "#ED7717",
         "comment": {
-            "foreground": "#8F8071",
+            "foreground": "#413F3A",
             "fontStyle": "italic"
         },
         "unresolvedReference": {
             "foreground": "#85598E"
         },
         "xmlDocCommentText": "#CCBB97",
-        "xmlDocCommentName:csharp": "#8F8071",
-        "xmlDocCommentDelimiter:csharp": "#8F8071",
+        "xmlDocCommentName:csharp": "#413F3A",
+        "xmlDocCommentDelimiter:csharp": "#413F3A",
         "xmlDocCommentAttributeName:csharp": "#ED7717",
         "xmlDocCommentAttributeQuotes:csharp": "#EFB52D",
         "xmlDocCommentAttributeValue:csharp": "#EFB52D",
@@ -1212,7 +1212,7 @@
                 "comment.block.bnf"
             ],
             "settings": {
-                "foreground": "#8F8071",
+                "foreground": "#413F3A",
                 "fontStyle": "italic"
             }
         },
@@ -1300,7 +1300,7 @@
                 "comment.block.documentation.cs punctuation.separator.equals.cs"
             ],
             "settings": {
-                "foreground": "#8F8071"
+                "foreground": "#413F3A"
             }
         },
         {
