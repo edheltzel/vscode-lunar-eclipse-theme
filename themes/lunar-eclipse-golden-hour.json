@@ -490,7 +490,7 @@
         "terminal.ansiBrightRed": "#ED4531",
         "terminal.ansiMagenta": "#85598E",
         "terminal.ansiBrightMagenta": "#B37EC8",
-        "terminal.selectionBackground": "#85598E1A",
+        "terminal.selectionBackground": "#85598E35",
         "terminal.inactiveSelectionBackground": "#85598E10",
         "terminal.findMatchBackground": "#3F4221",
         "terminal.findMatchBorder": "#8ABA3C8A",
