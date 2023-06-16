@@ -4,6 +4,10 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.7]
+
+- Lunar Eclipse Golden Hour color updates to UI
+
 ## [v0.0.6]
 
 - Adds new theme - Lunar Eclipse Golden Hour
