@@ -2,7 +2,7 @@
   "name": "lunar-eclipse",
   "displayName": "Lunar Eclipse",
   "description": "A vibrant theme with light & dark variants.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "ginfuru",
   "engines": {
     "vscode": "^1.74.0"
