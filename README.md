@@ -12,3 +12,10 @@
 ![total lunar eclipse](./images/total_lunar_eclipse--typescript.png)
 
 ![total lunar eclipse](./images/golden_hour--typescript.png)
+
+
+
+## Extension support:
+All themes support the following extensions:
+- Gitlens
+- [Todo Tree](/docs/extension-support.md#todo-tree)
