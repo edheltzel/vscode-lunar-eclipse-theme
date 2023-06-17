@@ -515,69 +515,19 @@
         "gitDecoration.ignoredResourceForeground": "#8F8071",
         "gitDecoration.conflictingResourceForeground": "#85598E",
         "gitDecoration.submoduleResourceForeground": "#8F8071",
-        "git-graph.graph.colours": [
-            "#EB4B68",
-            "#7E98A0",
-            "#AEB124",
-            "#EFB52D",
-            "#ED7717",
-            "#B37EC8",
-            "#B98090",
-            "#a5bcc4",
-            "#6DAF81",
-            "#8ABA3C"
-        ],
-        "todo-tree.highlights.customHighlight": {
-            "TODO": {
-                "foreground": "#191C1D",
-                "background": "#CCBB97",
-                "icon": "checklist",
-                "iconColour": "#CCBB97",
-                "gutterIcon": true
-            },
-            "FIXME": {
-                "foreground": "#191C1D",
-                "background": "#ED7717",
-                "icon": "tools",
-                "iconColour": "#ED7717",
-                "gutterIcon": true
-            },
-            "BUG": {
-                "foreground": "#191C1D",
-                "background": "#85598E",
-                "icon": "alert",
-                "iconColour": "#85598E",
-                "gutterIcon": true
-            },
-            "HACK": {
-                "foreground": "#191C1D",
-                "background": "#EFB52D",
-                "icon": "flame",
-                "iconColour": "#EFB52D",
-                "gutterIcon": true
-            },
-            "MAYBE": {
-                "foreground": "#191C1D",
-                "background": "#6DAF81",
-                "icon": "info",
-                "iconColour": "#6DAF81",
-                "gutterIcon": true
-            },
-            "[ ]": {
-                "foreground": "#191C1D",
-                "background": "#CCBB97",
-                "icon": "checklist",
-                "iconColour": "#CCBB97",
-                "gutterIcon": true
-            },
-            "[x]": {
-                "foreground": "#AEB124",
-                "background": "#191C1D",
-                "icon": "checklist",
-                "iconColour": "#AEB124",
-                "gutterIcon": true
-            }
-        }
+        "gitlens.graphLane10Color": "#8ABA3C",
+        "gitlens.graphLane1Color": "#EB4B68",
+        "gitlens.graphLane2Color": "#7E98A0",
+        "gitlens.graphLane3Color": "#AEB124",
+        "gitlens.graphLane4Color": "#EFB52D",
+        "gitlens.graphLane5Color": "#ED7717",
+        "gitlens.graphLane6Color": "#B37EC8",
+        "gitlens.graphLane7Color": "#B98090",
+        "gitlens.graphLane8Color": "#a5bcc4",
+        "gitlens.graphLane9Color": "#6DAF81",
+        "gitlens.gutterForegroundColor": "#9F917D",
+        "gitlens.gutterUncommittedForegroundColor": "#9F917D",
+        "gitlens.trailingLineForegroundColor": "#9F917D"
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
