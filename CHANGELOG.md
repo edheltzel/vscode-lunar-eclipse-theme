@@ -6,7 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [v0.0.8]
 
-- Todo Tree settings added to README.md
+- Fixes issue with package.json for Golden Hour theme
+- Todo Tree settings added to README.md - only golden hour
 
 ## [v0.0.7]
 
@@ -21,14 +22,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v0.0.5]
 
 - fixes ruler color on Lunar Eclipse Dark
+
 ## [v0.0.4]
 
 - adds more color contrast to Lunar Eclipse Dark
--- title and prompt selection colors for active items is more visible.
+  -- title and prompt selection colors for active items is more visible.
+
 ## [v0.0.3]
 
 - adds more color contrast for all variants
 - updates terminal selections and other selected highlighting to include more yellow to that purple is not the only accent color.
+
 ## [v0.0.2]
 
 - adds default - purple theme
