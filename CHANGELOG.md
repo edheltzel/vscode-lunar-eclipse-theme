@@ -4,6 +4,11 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.9]
+
+- Golden Hour UI update for active tab order to be on top
+- Light version has more contrast with colors
+
 ## [v0.0.8]
 
 - Fixes issue with package.json for Golden Hour theme
