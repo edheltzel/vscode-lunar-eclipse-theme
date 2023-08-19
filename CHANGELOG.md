@@ -3,6 +3,9 @@
 All notable changes to the "lunar-eclipse" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v0.0.10]
+
+- Light version update cursor color to have more contrast and better theme match
 
 ## [v0.0.9]
 
