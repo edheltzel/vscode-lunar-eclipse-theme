@@ -4,10 +4,12 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.12]
+- Light version update to terminal colors - more contrast
+
 ## [v0.0.11]
 
 - Light version update to include fontStyle for bold text
-
 
 ## [v0.0.10]
 
