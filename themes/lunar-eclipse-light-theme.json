@@ -235,10 +235,10 @@
         "panelTitle.activeForeground": "#101113",
         "panelTitle.inactiveForeground": "#8B99A7",
         "peekView.border": "#5900DF",
-        "peekViewEditor.background": "#FFFFFF40",
+        "peekViewEditor.background": "#8B99A720",
         "peekViewEditor.matchHighlightBackground": "#FFFFFF40",
-        "peekViewEditorGutter.background": "#FFFFFF40",
-        "peekViewResult.background": "#FFFFFF40",
+        "peekViewEditorGutter.background": "#8B99A720",
+        "peekViewResult.background": "#8B99A720",
         "peekViewResult.fileForeground": "#455059",
         "peekViewResult.lineForeground": "#455059",
         "peekViewResult.matchHighlightBackground": "#FFFFFF",
@@ -997,7 +997,7 @@
                 "comment.block.bnf"
             ],
             "settings": {
-                "foreground": "#747889",
+                "foreground": "#A6B0BA",
                 "fontStyle": "italic"
             }
         },
