@@ -453,20 +453,16 @@
         },
         "method.mutable": {
             "foreground": "#1DAEF6",
-            "fontStyle": "bold"
-        },
+            "fontStyle": "bold"        },
         "function.mutable": {
             "foreground": "#1DAEF6",
-            "fontStyle": "bold"
-        },
+            "fontStyle": "bold"        },
         "parameter.mutable": {
             "foreground": "#7B8DAE",
-            "fontStyle": "bold"
-        },
+            "fontStyle": "bold"        },
         "selfKeyword.mutable": {
             "foreground": "#F871C0",
-            "fontStyle": "bold"
-        },
+            "fontStyle": "bold"        },
         "variable.mutable.reference": {
             "foreground": "#6C6E83",
             "fontStyle": "italic bold"
@@ -779,7 +775,7 @@
             ],
             "settings": {
                 "foreground": "#565869",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -828,7 +824,7 @@
             ],
             "settings": {
                 "foreground": "#008785",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -895,7 +891,7 @@
             ],
             "settings": {
                 "foreground": "#9B7200",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1240,8 +1236,7 @@
             ],
             "settings": {
                 "foreground": "#DF3C37",
-                "fontStyle": "bold"
-            }
+                "fontStyle": "bold"            }
         },
         {
             "name": "JSX - Attributes",
@@ -1291,8 +1286,7 @@
             ],
             "settings": {
                 "foreground": "#DF3C37",
-                "fontStyle": "bold"
-            }
+                "fontStyle": "bold"            }
         },
         {
             "name": "HTML - Classes",
@@ -1302,7 +1296,7 @@
             ],
             "settings": {
                 "foreground": "#0B8C36",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1354,7 +1348,7 @@
             ],
             "settings": {
                 "foreground": "#804D72",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1439,7 +1433,7 @@
             ],
             "settings": {
                 "foreground": "#D04094",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1516,7 +1510,7 @@
             ],
             "settings": {
                 "foreground": "#565869",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1536,7 +1530,7 @@
             ],
             "settings": {
                 "foreground": "#565869",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1559,8 +1553,8 @@
                 "markup.bold string"
             ],
             "settings": {
-                "fontStyle": "bold",
-                "foreground": "#DF3C37"
+                "foreground": "#DF3C37",
+                "fontStyle": "bold"
             }
         },
         {

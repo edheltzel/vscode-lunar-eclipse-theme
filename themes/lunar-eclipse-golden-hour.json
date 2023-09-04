@@ -1698,8 +1698,8 @@
                 "markup.bold string"
             ],
             "settings": {
-                "fontStyle": "bold",
-                "foreground": "#ED7717"
+                "foreground": "#ED7717",
+                "fontStyle": "bold"
             }
         },
         {
