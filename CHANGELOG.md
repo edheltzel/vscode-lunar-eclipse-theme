@@ -4,6 +4,12 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.13]
+- Light version update
+  - adds more contrast to workbench colors for better visibility
+  - removes bold font from textmate rules for light version only
+- misc color updates to all versions
+
 ## [v0.0.12]
 - Light version update to terminal colors - more contrast
 
