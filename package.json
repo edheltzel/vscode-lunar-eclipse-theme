@@ -41,6 +41,11 @@
 				"path": "./themes/lunar-eclipse-theme.json"
 			},
 			{
+				"label": "Lunar Eclipse Shadow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lunar-eclipse-shadow-theme.json"
+			},
+			{
 				"label": "Lunar Eclipse Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/total-lunar-eclipse-theme.json"
