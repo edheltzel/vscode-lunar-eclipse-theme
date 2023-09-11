@@ -4,7 +4,12 @@ All notable changes to the "lunar-eclipse" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.1.0]
+
+- Adds new theme - Lunar Eclipse Shadow: A minimal UI inspired by the the default Dark Modern theme
+
 ## [v0.0.12]
+
 - Light version update to terminal colors - more contrast
 - Lunar Eclipse Light update
   - adds more contrast to workbench colors for better visibility
