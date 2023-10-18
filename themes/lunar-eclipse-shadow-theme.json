@@ -196,15 +196,15 @@
     "character": "#FF7135",
     "number": "#FF7135",
     "comment": {
-      "foreground": "#444444",
+      "foreground": "#777777",
       "fontStyle": "italic"
     },
     "unresolvedReference": {
       "foreground": "#FF2884"
     },
     "xmlDocCommentText": "#c1c9eb",
-    "xmlDocCommentName:csharp": "#444444",
-    "xmlDocCommentDelimiter:csharp": "#444444",
+    "xmlDocCommentName:csharp": "#777777",
+    "xmlDocCommentDelimiter:csharp": "#777777",
     "xmlDocCommentAttributeName:csharp": "#FF7135",
     "xmlDocCommentAttributeQuotes:csharp": "#FFB638",
     "xmlDocCommentAttributeValue:csharp": "#FFB638",
@@ -775,7 +775,7 @@
         "comment.block.bnf"
       ],
       "settings": {
-        "foreground": "#444444",
+        "foreground": "#777777",
         "fontStyle": "italic"
       }
     },
@@ -865,7 +865,7 @@
         "comment.block.documentation.cs punctuation.separator.equals.cs"
       ],
       "settings": {
-        "foreground": "#444444"
+        "foreground": "#777777"
       }
     },
     {
