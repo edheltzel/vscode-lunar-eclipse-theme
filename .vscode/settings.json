@@ -1,5 +1,18 @@
 {
   "workbench.colorCustomizations": {
     "titleBar.activeForeground": "#B37EC8"
-  }
+  },
+  "cSpell.words": [
+    "documentroot",
+    "enummember",
+    "localname",
+    "metavariable",
+    "parens",
+    "readwrite",
+    "Stackframe",
+    "substatement",
+    "uintptr",
+    "vmax",
+    "vmin"
+  ]
 }
